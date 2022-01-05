@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![rsz_11received_188107672080730_1](https://user-images.githubusercontent.com/29408155/148219038-6a1fb5a1-1cb1-4e68-b693-7b03ef6e3cc4.jpg)
+![profile pic](https://user-images.githubusercontent.com/29408155/148219203-762fc4ca-7c7f-4040-9c9f-1af714cbbbec.jpg)
+
 
 ## About Me ⚡
 I'm a software developer currently focused on test automation. I'm passionate about sharing any knowledge I have about programming and development in the form of articles, blogs, documentation, and tutorials. 
