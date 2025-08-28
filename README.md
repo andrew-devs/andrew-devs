@@ -1,6 +1,7 @@
-### Hi, I'm Andrew 👋
+## Hi, I'm Andrew 👋
 
-![lego cover pic][https://github.com/andrew-devs/andrew-devs/blob/main/funny-lego.jpg)
+![lego cover pic](https://github.com/andrew-devs/andrew-devs/raw/main/funny-lego.jpg)
 
-## About Me ⚡
+### About Me ⚡
+
 I'm a techincal writer who's passionate about improving documentation and tinkering with new tools and technologies!
